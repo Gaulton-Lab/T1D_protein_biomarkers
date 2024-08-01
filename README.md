@@ -19,3 +19,6 @@ LDSC_Cell_Type_Enrichments.ipynb
 #### 4. Colocalization of UKB-PPP pQTLs with GTEx eQTLs
 pQTL_GTEx_eQTL_Coloc.ipynb
 
+#### 5. Differential gene expression analysis from scRNAseq of HPAP and nPOD donors with and without T1D
+scRNA_DESeq_HPAP_nPOD_Combined.ipynb
+
